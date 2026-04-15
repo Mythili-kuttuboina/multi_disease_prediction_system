@@ -40,15 +40,10 @@ Easy navigation using sidebar
 Scalable and modular design
 🖥️ Application Screenshots
 
-👉 (VERY IMPORTANT SECTION — add your screenshots here)
-
-🔹 Home Page
-
-Add screenshot of your main landing page
-
 🔹 Diabetes Prediction Page
 
-Add screenshot showing input fields and result
+![Diabetes_1](https://github.com/Mythili-kuttuboina/multi_disease_prediction_system/blob/main/Diabetes_1.png?raw=true)
+
 
 🔹 Heart Disease Prediction Page
 
