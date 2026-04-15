@@ -50,9 +50,9 @@ Scalable and modular design
 
 ![heart](https://github.com/Mythili-kuttuboina/multi_disease_prediction_system/blob/main/heart.png?raw=true)
 
-🔹 Parkinson’s Prediction Page
+🔹 Parkinson’s Prediction 
 
-Add screenshot showing UI and results
+![parkinson_1](https://github.com/Mythili-kuttuboina/multi_disease_prediction_system/blob/main/parkinson_1.png?raw=true)
 
 📊 How It Works
 User selects a disease prediction option from the sidebar
