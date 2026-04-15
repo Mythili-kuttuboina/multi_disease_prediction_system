@@ -52,8 +52,8 @@ Scalable and modular design
 
 🔹 Parkinson’s Prediction 
 
-![parkinson_1](https://github.com/Mythili-kuttuboina/multi_disease_prediction_system/blob/main/parkinson_1.png?raw=true)
-![parkinson_2](https://github.com/Mythili-kuttuboina/multi_disease_prediction_system/blob/main/parkinsons_2.png?raw=true)
+  ![parkinson_1](https://github.com/Mythili-kuttuboina/multi_disease_prediction_system/blob/main/parkinson_1.png?raw=true)
+ ![parkinson_2](https://github.com/Mythili-kuttuboina/multi_disease_prediction_system/blob/main/parkinsons_2.png?raw=true)
 ![parkinson_3](https://github.com/Mythili-kuttuboina/multi_disease_prediction_system/blob/main/parkinson's_3.png?raw=true)
 
 📊 How It Works
