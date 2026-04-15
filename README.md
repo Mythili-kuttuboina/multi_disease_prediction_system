@@ -46,9 +46,9 @@ Scalable and modular design
 ![Diabetes_2](https://github.com/Mythili-kuttuboina/multi_disease_prediction_system/blob/main/diabetes_2.png?raw=true)
 
 
-🔹 Heart Disease Prediction Page
+🔹 Heart Disease Prediction 
 
-Add screenshot showing inputs and prediction output
+![heart](https://github.com/Mythili-kuttuboina/multi_disease_prediction_system/blob/main/heart.png?raw=true)
 
 🔹 Parkinson’s Prediction Page
 
