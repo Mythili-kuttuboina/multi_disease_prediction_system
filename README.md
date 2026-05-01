@@ -49,8 +49,8 @@ Scalable and modular design
 
 🔹 Diabetes Prediction Page  
 
-![Diabetes_1](https://github.com/Mythili-kuttuboina/multi_disease_prediction_system/blob/main/Diabetes_1.png?raw=true)
-![Diabetes_2](https://github.com/Mythili-kuttuboina/multi_disease_prediction_system/blob/main/diabetes_2.png?raw=true)
+![Diabetes_1](https://github.com/Mythili-kuttuboina/multi_disease_prediction_system/blob/main/Diabetes_1.png?raw=true)  
+ ![Diabetes_2](https://github.com/Mythili-kuttuboina/multi_disease_prediction_system/blob/main/diabetes_2.png?raw=true)  
 
 
 🔹 Heart Disease Prediction   
@@ -59,9 +59,9 @@ Scalable and modular design
 
 🔹 Parkinson’s Prediction 
 
-  ![parkinson_1](https://github.com/Mythili-kuttuboina/multi_disease_prediction_system/blob/main/parkinson_1.png?raw=true)
- ![parkinson_2](https://github.com/Mythili-kuttuboina/multi_disease_prediction_system/blob/main/parkinsons_2.png?raw=true)
-![parkinson_3](https://github.com/Mythili-kuttuboina/multi_disease_prediction_system/blob/main/parkinson's_3.png?raw=true)
+  ![parkinson_1](https://github.com/Mythili-kuttuboina/multi_disease_prediction_system/blob/main/parkinson_1.png?raw=true)  
+  ![parkinson_2](https://github.com/Mythili-kuttuboina/multi_disease_prediction_system/blob/main/parkinsons_2.png?raw=true)  
+  ![parkinson_3](https://github.com/Mythili-kuttuboina/multi_disease_prediction_system/blob/main/parkinson's_3.png?raw=true)  
 
 📊 How It Works  
 
