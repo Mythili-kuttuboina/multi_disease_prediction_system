@@ -1,7 +1,7 @@
-# multi_disease_prediction_system
-Multi Disease Prediction System using Machine Learning (Streamlit Web App)
+
+#Multi Disease Prediction System using Machine Learning (Streamlit Web App)
 ---
-📖 Project Description
+ Project Description
 ---
 The Multi Disease Prediction System is an interactive web-based application developed using machine learning techniques to predict the likelihood of multiple diseases such as diabetes, heart disease, and Parkinson’s disease. The frontend of the application is built using Streamlit, which provides a simple and intuitive interface for users to input medical data and receive real-time predictions.
 
