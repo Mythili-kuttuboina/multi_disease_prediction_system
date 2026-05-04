@@ -82,4 +82,4 @@ Enhancing UI design
 Installation and Setup
 ---
 1.Clone the repository:  
-git clone https://github.com/<mythili-kuttuboina>/multi_disease_prediction_system.git  
+git clone  https://github.com/<mythili-kuttuboina>/multi_disease_prediction_system.git    
